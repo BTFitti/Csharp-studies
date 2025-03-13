@@ -31,6 +31,14 @@ namespace Variables
             gender = 'M';
             name = "Robert";
             Console.WriteLine($"Name: {name} \nAge: {age} \nGender: {gender} \nHeight: {height} \nSalary: {salary}");
+            /*
+            ----------------------------------------------------------------------------------------------------------------
+            */
+            double totalEarnings;
+            bool isWorking;
+            isWorking = true;
+            totalEarnings =(float)(salary  * 12) ;
+            Console.WriteLine($"IsWorking: {isWorking} \nTotalEarnings: {totalEarnings.ToString("F0")}");
         }
     }
 }
