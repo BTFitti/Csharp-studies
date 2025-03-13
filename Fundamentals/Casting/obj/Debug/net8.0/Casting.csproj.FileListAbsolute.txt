@@ -1,0 +1,15 @@
+S:\Estudos\estudo de C#\Fundamentals\Casting\bin\Debug\net8.0\Casting.exe
+S:\Estudos\estudo de C#\Fundamentals\Casting\bin\Debug\net8.0\Casting.deps.json
+S:\Estudos\estudo de C#\Fundamentals\Casting\bin\Debug\net8.0\Casting.runtimeconfig.json
+S:\Estudos\estudo de C#\Fundamentals\Casting\bin\Debug\net8.0\Casting.dll
+S:\Estudos\estudo de C#\Fundamentals\Casting\bin\Debug\net8.0\Casting.pdb
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\Casting.AssemblyInfoInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\Casting.AssemblyInfo.cs
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\Casting.csproj.CoreCompileInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\Casting.sourcelink.json
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\Casting.dll
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\refint\Casting.dll
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\Casting.pdb
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\Casting.genruntimeconfig.cache
+S:\Estudos\estudo de C#\Fundamentals\Casting\obj\Debug\net8.0\ref\Casting.dll
