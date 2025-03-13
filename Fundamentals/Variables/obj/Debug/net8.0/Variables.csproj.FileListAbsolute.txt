@@ -1,0 +1,15 @@
+S:\Estudos\estudo de C#\Fundamentals\Variables\bin\Debug\net8.0\Variables.exe
+S:\Estudos\estudo de C#\Fundamentals\Variables\bin\Debug\net8.0\Variables.deps.json
+S:\Estudos\estudo de C#\Fundamentals\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+S:\Estudos\estudo de C#\Fundamentals\Variables\bin\Debug\net8.0\Variables.dll
+S:\Estudos\estudo de C#\Fundamentals\Variables\bin\Debug\net8.0\Variables.pdb
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\Variables.dll
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\refint\Variables.dll
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\Variables.pdb
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+S:\Estudos\estudo de C#\Fundamentals\Variables\obj\Debug\net8.0\ref\Variables.dll
