@@ -1,0 +1,15 @@
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\bin\Debug\net8.0\ProcessingData.exe
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\bin\Debug\net8.0\ProcessingData.deps.json
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\bin\Debug\net8.0\ProcessingData.runtimeconfig.json
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\bin\Debug\net8.0\ProcessingData.dll
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\bin\Debug\net8.0\ProcessingData.pdb
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\ProcessingData.GeneratedMSBuildEditorConfig.editorconfig
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\ProcessingData.AssemblyInfoInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\ProcessingData.AssemblyInfo.cs
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\ProcessingData.csproj.CoreCompileInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\ProcessingData.sourcelink.json
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\ProcessingData.dll
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\refint\ProcessingData.dll
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\ProcessingData.pdb
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\ProcessingData.genruntimeconfig.cache
+S:\Estudos\estudo de C#\Fundamentals\ProcessingData\obj\Debug\net8.0\ref\ProcessingData.dll
