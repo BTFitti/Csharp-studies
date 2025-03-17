@@ -1,0 +1,15 @@
+S:\Estudos\estudo de C#\Fundamentals\Inputs\bin\Debug\net9.0\Inputs.exe
+S:\Estudos\estudo de C#\Fundamentals\Inputs\bin\Debug\net9.0\Inputs.deps.json
+S:\Estudos\estudo de C#\Fundamentals\Inputs\bin\Debug\net9.0\Inputs.runtimeconfig.json
+S:\Estudos\estudo de C#\Fundamentals\Inputs\bin\Debug\net9.0\Inputs.dll
+S:\Estudos\estudo de C#\Fundamentals\Inputs\bin\Debug\net9.0\Inputs.pdb
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\Inputs.GeneratedMSBuildEditorConfig.editorconfig
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\Inputs.AssemblyInfoInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\Inputs.AssemblyInfo.cs
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\Inputs.csproj.CoreCompileInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\Inputs.sourcelink.json
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\Inputs.dll
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\refint\Inputs.dll
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\Inputs.pdb
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\Inputs.genruntimeconfig.cache
+S:\Estudos\estudo de C#\Fundamentals\Inputs\obj\Debug\net9.0\ref\Inputs.dll
