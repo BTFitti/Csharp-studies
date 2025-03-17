@@ -1,0 +1,15 @@
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\For.GeneratedMSBuildEditorConfig.editorconfig
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\For.AssemblyInfoInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\For.AssemblyInfo.cs
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\For.csproj.CoreCompileInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\For.sourcelink.json
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\bin\Debug\net9.0\For.exe
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\bin\Debug\net9.0\For.deps.json
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\bin\Debug\net9.0\For.runtimeconfig.json
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\bin\Debug\net9.0\For.dll
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\bin\Debug\net9.0\For.pdb
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\For.dll
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\refint\For.dll
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\For.pdb
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\For.genruntimeconfig.cache
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\For\obj\Debug\net9.0\ref\For.dll
