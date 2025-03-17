@@ -1,0 +1,15 @@
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\bin\Debug\net9.0\IfElse.exe
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\bin\Debug\net9.0\IfElse.deps.json
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\bin\Debug\net9.0\IfElse.runtimeconfig.json
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\bin\Debug\net9.0\IfElse.dll
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\bin\Debug\net9.0\IfElse.pdb
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\IfElse.AssemblyInfoInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\IfElse.AssemblyInfo.cs
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\IfElse.csproj.CoreCompileInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\IfElse.sourcelink.json
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\IfElse.dll
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\refint\IfElse.dll
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\IfElse.pdb
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\IfElse.genruntimeconfig.cache
+S:\Estudos\estudo de C#\Fundamentals\ConditionalStructures\IfElse\obj\Debug\net9.0\ref\IfElse.dll
