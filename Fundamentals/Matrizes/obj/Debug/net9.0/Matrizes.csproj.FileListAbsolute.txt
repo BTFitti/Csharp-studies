@@ -1,0 +1,15 @@
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\Matrizes.AssemblyInfoInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\Matrizes.AssemblyInfo.cs
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\Matrizes.csproj.CoreCompileInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\Matrizes.sourcelink.json
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\bin\Debug\net9.0\Matrizes.exe
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\bin\Debug\net9.0\Matrizes.deps.json
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\bin\Debug\net9.0\Matrizes.runtimeconfig.json
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\bin\Debug\net9.0\Matrizes.dll
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\bin\Debug\net9.0\Matrizes.pdb
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\Matrizes.dll
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\refint\Matrizes.dll
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\Matrizes.pdb
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\Matrizes.genruntimeconfig.cache
+S:\Estudos\estudo de C#\Fundamentals\Matrizes\obj\Debug\net9.0\ref\Matrizes.dll
