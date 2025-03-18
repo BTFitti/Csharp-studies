@@ -1,0 +1,15 @@
+S:\Estudos\estudo de C#\Fundamentals\Vetores\bin\Debug\net9.0\Vetores.exe
+S:\Estudos\estudo de C#\Fundamentals\Vetores\bin\Debug\net9.0\Vetores.deps.json
+S:\Estudos\estudo de C#\Fundamentals\Vetores\bin\Debug\net9.0\Vetores.runtimeconfig.json
+S:\Estudos\estudo de C#\Fundamentals\Vetores\bin\Debug\net9.0\Vetores.dll
+S:\Estudos\estudo de C#\Fundamentals\Vetores\bin\Debug\net9.0\Vetores.pdb
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\Vetores.AssemblyInfoInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\Vetores.AssemblyInfo.cs
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\Vetores.csproj.CoreCompileInputs.cache
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\Vetores.sourcelink.json
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\Vetores.dll
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\refint\Vetores.dll
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\Vetores.pdb
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\Vetores.genruntimeconfig.cache
+S:\Estudos\estudo de C#\Fundamentals\Vetores\obj\Debug\net9.0\ref\Vetores.dll
